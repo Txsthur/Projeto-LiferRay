@@ -38,7 +38,7 @@
 </head>
 <body class="text-slate-800">
 
-   
+    <!-- Header -->
     <header class="bg-white shadow-md sticky top-0 z-50">
         <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between h-16">
